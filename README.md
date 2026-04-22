@@ -1,13 +1,13 @@
 # Hi, I'm Manoj 👋
 
-Full‑stack developer focused on building scalable backend systems, reliable APIs, and modern web applications with **Java**, **Spring Boot**, **TypeScript**, and **cloud‑native tooling**. Current experience includes **financial‑services engineering**, **delivery leadership**, and **deployment automation** across secure, production‑grade systems.  
+Full‑stack developer focused on building scalable backend systems, reliable APIs, and modern web applications with **Java**, **Python**, **Spring Boot**, **TypeScript**, and **cloud‑native tooling**. Current experience includes **financial‑services engineering**, **delivery leadership**, and **deployment automation** across secure, production‑grade systems.  
 
 ---
 
 ## 🔍 About me
 
 - Java full‑stack developer with hands‑on experience in **Spring Boot**, **microservices**, **Apache Kafka**, **React**, **Angular**, **Postgres**, **MongoDB**, and **cloud platforms (AWS, GCP, Azure)**.  
-- Based in **Toronto**, with 1+ year of professional software development experience in Canada, building secure and resilient applications for regulated industries.  
+- Based in **Toronto**, with 3+ year of professional software development experience in Canada, building secure and resilient applications for regulated industries.  
 - Interested in **backend engineering**, **distributed systems**, **developer productivity**, and **clean system design**.  
 
 ---
