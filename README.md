@@ -26,14 +26,10 @@ Responsibilities include:
 ## 🚀 Featured projects
 
 ### 📊 CDIC
-A production‑style project showcased in my portfolio, highlighting end‑to‑end feature development, data‑driven workflows, and real‑world domain needs.  
+A portfolio project showcasing backend‑heavy development, data workflows, and end‑to‑end solution design in a real‑world domain.
 
 ### 📋 CRA DDA
-Another key portfolio project selected to demonstrate applied backend and full‑stack engineering in a regulated environment, useful for recruiters and hiring managers.  
-
-### 🛒 System design & architecture
-Recent work and interview prep include designing a **microservices‑based e‑commerce platform**, with detailed **Order Service** and **Product Service** architecture thinking.  
-
+A portfolio project highlighting backend integration patterns and application logic in a regulated environment.
 ---
 
 ## ⭐ Experience highlights
